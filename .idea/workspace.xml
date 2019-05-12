@@ -29,20 +29,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/feature/api/FuttaimGroup_GitHub_API.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+            <state relative-caret-position="162">
+              <caret line="165" column="88" selection-start-line="165" selection-start-column="88" selection-end-line="165" selection-end-column="88" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/runner/TestRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="204">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,7 +107,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="391">
               <caret line="23" selection-start-line="19" selection-end-line="23" />
             </state>
           </provider>
@@ -165,10 +165,12 @@
       <dir>D:\qapros-automation</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/web/Element.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/web/PageUtility.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/web/business/Element.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/truefit/automation/business/Element.java" />
@@ -219,6 +221,7 @@
         <option value="$PROJECT_DIR$/src/main/java/org/qapros/framework/common/services/ResponseBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/qapros/automation/web/page/ApiGenericPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/feature/api/FuttaimGroup_GitHub_API.feature" />
       </list>
     </option>
   </component>
@@ -246,13 +249,14 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -379,7 +383,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557645165201" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557650702572" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -616,44 +620,45 @@
       <workItem from="1557216766390" duration="1821000" />
       <workItem from="1557514675016" duration="620000" />
       <workItem from="1557517354673" duration="31346000" />
-      <workItem from="1557645382121" duration="800000" />
+      <workItem from="1557645382121" duration="4311000" />
+      <workItem from="1557652495287" duration="520000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 01h 59m 15s.xml">
-      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 09h 59m 02s.xml">
-      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 00m 47s.xml">
-      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 01m 38s.xml">
-      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 04m 00s.xml">
-      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 04m 26s.xml">
-      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 06m 20s.xml">
-      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 07m 41s.xml">
-      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 09m 04s.xml">
       <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
     <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 09m 22s.xml">
       <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 29m 15s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 31m 49s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 12h 16m 50s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 12h 17m 22s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 12h 20m 16s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 12h 20m 35s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 12h 20m 58s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 12h 22m 02s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196873000" />
+    <option name="totallyTimeSpent" value="200904000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -666,8 +671,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-324" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1139,6 +1145,16 @@ try {
     <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/automation/mobile/element/AppElement.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/org/qapros/stepdefs/mobile/GenericStepDefs.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/Locators.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/runner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/services/ResponseBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1156,6 +1172,13 @@ try {
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/appProperties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1178,32 +1201,15 @@ try {
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="391">
           <caret line="23" selection-start-line="19" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/appProperties.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/feature/api/FuttaimGroup_GitHub_API.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/runner/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="162">
+          <caret line="165" column="88" selection-start-line="165" selection-start-column="88" selection-end-line="165" selection-end-column="88" />
         </state>
       </provider>
     </entry>
