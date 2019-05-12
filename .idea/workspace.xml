@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="247e5e4f-097b-4492-b162-a44c008ee157" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/feature/api/FuttaimGroup_GitHub_API.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/runner/TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/services/ResponseBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/qapros/stepdefs/api/ApiGenericStepDefs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/appProperties.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/automation/web/page/ApiGenericPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/services/CallService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="23" selection-start-line="19" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>value</find>
+      <find>having_trouble</find>
+      <find>android.widget.TextView</find>
+      <find>phone</find>
+      <find>6</find>
+      <find>click</find>
+      <find>if</find>
+      <find>wow</find>
+      <find>swip</find>
+      <find>4723</find>
+      <find>login.havingtrouble.byxpath</find>
+      <find>present</find>
+      <find>swipe</find>
+      <find>setvalue</find>
+      <find>text</find>
+      <find>dfc.login.byxpath</find>
+      <find>passwordlength</find>
+      <find>Eyad</find>
+      <find>c++</find>
+      <find>eyad</find>
+      <find>anywhere</find>
+      <find>search</find>
+      <find>get</find>
+      <find>pagan</find>
+      <find>request constructed API url using get method for non Json response</find>
+      <find>validate response nods description contains the description query param supplied in the url</find>
+      <find>request constructed</find>
+      <find>hellofres</find>
+      <find>validate response nods location contains the location query param supplied in the url</find>
+      <find>retrieve</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>qpros</replace>
+      <replace>|</replace>
+      <replace>register</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\truefit3</dir>
+      <dir>D:\qapros-automation</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/web/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/web/PageUtility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/web/business/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/automation/business/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/automation/mobile/AppElements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/business/MobileElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/business/mElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/business/AppElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/automation/mobile/element/AppElements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/business/MoElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/business/ApplicationElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/automation/web/element/WebElements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/automation/mobile/page/GenericPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/business/AppElementUtility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/web/helper/PageUtility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/web/factory/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/web/factory/MobileDriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/factory/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/business/business/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/automation/web/page/GenericPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/business/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/factory/MobileDriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/automation/mobile/element/AppElement.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/truefit/stepdefs/mobile/GenericStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/automation/mobile/page/MobileGenericPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/mobile/business/AppElementHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/truefit/framework/common/runner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/framework/common/propmanager/PropManager.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/trueFitLocators.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/automation/mobile/element/AppElement.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/appProperties.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/org/qapros/stepdefs/mobile/GenericStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/feature/app/dubaifitnesschallenge/DubaiFitnessChallange_Register.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/automation/mobile/page/MobileGenericPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/feature/app/dubaifitnesschallenge/DubaiFitnessChallange_Login.feature" />
+        <option value="$PROJECT_DIR$/src/main/resources/Locators.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/business/AppElementHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/framework/common/runner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/test" />
+        <option value="$PROJECT_DIR$/src/main/resources/ets" />
+        <option value="$PROJECT_DIR$/src/test/java/org/qapros/stepdefs/api/GenericStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/automation/web/page/MobileGenericPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/framework/bean/ResponseBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/framework/common/bean/ResponseBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/framework/common/bean/ResponseModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/framework/common/services/CallService.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/feature/api/FatoumGroup_GitHub_API.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/org/qapros/stepdefs/api/ApiGenericStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/framework/common/services/ResponseBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/qapros/automation/web/page/ApiGenericPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Futtaim Group" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-324" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="qapros" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="qapros" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="qapros" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="qapros" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="qapros" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="feature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="truefit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FuttaimGroup-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="feature" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557645165201" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.truefit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FatoumGroup-Automation\src\test\resources\feature\api" />
+      <recent name="D:\qapros-automation\src\test\resources\feature\app\dubaifitnesschallenge" />
+      <recent name="D:\truefit3\src\main\java\org\truefit\framework\mobile\business" />
+      <recent name="D:\truefit3\src\test\resources\feature\app\dubaifitnesschallenge" />
+      <recent name="D:\truefit3\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.qapros.automation.web.page" />
+      <recent name="org.qapros.stepdefs.api" />
+      <recent name="org.truefit.automation.mobile.page" />
+      <recent name="org.truefit.stepdefs.mobile" />
+      <recent name="org.truefit.automation.business" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\truefit3\src\test\resources\properties" />
+      <recent name="C:\truefit3\src\main\resources" />
+      <recent name="C:\truefit3\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: FatoumGroup_GitHub_API">
+    <configuration name="AppiumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.truefit.framework.runner.AppiumTest" />
+      <module name="truefit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.truefit.framework.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: DubaiFitnessChallange_Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/app/dubaifitnesschallenge/DubaiFitnessChallange_Login.feature" />
+      <option name="GLUE" value="org.qapros.stepdefs.mobile" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="qapros" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: DubaiFitnessChallange_Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: FatoumGroup_GitHub_API" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/api/FuttaimGroup_GitHub_API.feature" />
+      <option name="GLUE" value="org.qapros.stepdefs.api" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="FuttaimGroup-Automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: FatoumGroup_GitHub_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: TrueFit_GoogleVerification (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/web/TrueFit_GoogleVerification.feature" />
+      <option name="GLUE" value="org.truefit.stepdefs.web" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="truefit" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: TrueFit_GoogleVerification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: TrueFit_GoogleVerification" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/web/TrueFit_GoogleVerification.feature" />
+      <option name="GLUE" value="cucumber.api.spring org.truefit.stepdefs.web" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="truefit3" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: TrueFit_GoogleVerification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppiumTest" />
+      <item itemvalue="Cucumber java.Feature: DubaiFitnessChallange_Login" />
+      <item itemvalue="Cucumber java.Feature: TrueFit_GoogleVerification (1)" />
+      <item itemvalue="Cucumber java.Feature: TrueFit_GoogleVerification" />
+      <item itemvalue="Cucumber java.Feature: FatoumGroup_GitHub_API" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: FatoumGroup_GitHub_API" />
+        <item itemvalue="Cucumber java.Feature: DubaiFitnessChallange_Login" />
+        <item itemvalue="Application.AppiumTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="247e5e4f-097b-4492-b162-a44c008ee157" name="Default Changelist" comment="" />
+      <created>1544017788483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544017788483</updated>
+      <workItem from="1544017793157" duration="2247000" />
+      <workItem from="1544020194936" duration="23694000" />
+      <workItem from="1553671081304" duration="6089000" />
+      <workItem from="1553759225648" duration="33083000" />
+      <workItem from="1554121098495" duration="347000" />
+      <workItem from="1554121480281" duration="5551000" />
+      <workItem from="1554189041548" duration="26381000" />
+      <workItem from="1554281482657" duration="15502000" />
+      <workItem from="1554357133768" duration="45937000" />
+      <workItem from="1555225012574" duration="594000" />
+      <workItem from="1555530403478" duration="590000" />
+      <workItem from="1556715754217" duration="598000" />
+      <workItem from="1556879913022" duration="1620000" />
+      <workItem from="1556882272796" duration="53000" />
+      <workItem from="1557216766390" duration="1821000" />
+      <workItem from="1557514675016" duration="620000" />
+      <workItem from="1557517354673" duration="31346000" />
+      <workItem from="1557645382121" duration="800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 01h 59m 15s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 09h 59m 02s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 00m 47s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 01m 38s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 04m 00s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 04m 26s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 06m 20s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 07m 41s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 09m 04s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FatoumGroup_GitHub_API - 2019.05.12 at 10h 09m 22s.xml">
+      <configuration name="Feature: FatoumGroup_GitHub_API" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="196873000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-324" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34019503" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3846154" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.40261865" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.20469083" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.14285715" />
+      <window_info anchor="right" id="SciView" order="9" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24357034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13420622" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5139116" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.40261865" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.07942511" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.14285715" />
+      <window_info anchor="right" id="SciView" order="9" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/business/Element.java</url>
+          <line>267</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/automation/web/page/GenericPage.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/factory/DriverFactory.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/automation/web/page/GenericPage.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/factory/DriverFactory.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/factory/DriverFactory.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/business/Element.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/business/AppElementHandler.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/business/AppElementHandler.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/business/AppElementHandler.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/automation/web/page/ApiGenericPage.java</url>
+          <line>226</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/qapros/automation/web/page/ApiGenericPage.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="callService.doGetCallForHtml(url)" />
+        <watch expression="callService.doGetCallForHtml(url)" />
+        <watch expression="get" />
+        <watch expression="CallService.responseCode.equals(code)" />
+        <watch expression="url" />
+        <watch expression="Collections.copy(firstList,responseList)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>get.responseCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>get.getInputStream()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>StringWriter writer = new StringWriter();
+try {
+   
+    Get get = Http.get(&quot;https://jobs.github.com/positions/123213&quot;);
+    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;after calling api&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+//    return get.getInputStream().hashCode();
+} catch (Exception exception) {
+//    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;in exception&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+    return String.valueOf(get.responseCode());
+//    return objectMapper.writeValueAsString(writer.toString());
+ 
+//    exception.getMessage();
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>StringWriter writer = new StringWriter();
+try {
+   
+    Get get = Http.get(&quot;https://jobs.github.com/positions/123213&quot;);
+    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;after calling api&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+//    return get.getInputStream().hashCode();
+} catch (Exception exception) {
+//    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;in exception&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+    return get.responseCode()
+//    return objectMapper.writeValueAsString(writer.toString());
+ 
+//    exception.getMessage();
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>StringWriter writer = new StringWriter();
+try {
+   
+    Get get = Http.get(&quot;https://jobs.github.com/positions/123213&quot;);
+    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;after calling api&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+//    return get.getInputStream().hashCode();
+} catch (Exception exception) {
+//    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;in exception&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+    return get.responseMessage()
+//    return objectMapper.writeValueAsString(writer.toString());
+ 
+//    exception.getMessage();
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>StringWriter writer = new StringWriter();
+try {
+   
+    Get get = Http.get(&quot;https://jobs.github.com/positions/123213&quot;);
+    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;after calling api&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+//    return get.getInputStream().hashCode();
+} catch (Exception exception) {
+//    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;in exception&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+    return writer.toString()
+//    return objectMapper.writeValueAsString(writer.toString());
+ 
+//    exception.getMessage();
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>StringWriter writer = new StringWriter();
+try {
+   
+    Get get = Http.get(&quot;https://jobs.github.com/positions/123213&quot;);
+    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;after calling api&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+//    return get.getInputStream().hashCode();
+} catch (Exception exception) {
+//    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;in exception&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+    return &quot;eyad&quot;
+//    return objectMapper.writeValueAsString(writer.toString());
+ 
+//    exception.getMessage();
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>StringWriter writer = new StringWriter();
+try {
+   
+    Get get = Http.get(&quot;https://jobs.github.com/positions/123213&quot;);
+    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;after calling api&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+//    return get.getInputStream().hashCode();
+} catch (Exception exception) {
+//    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;in exception&quot;);
+//    ObjectMapper objectMapper = new ObjectMapper();
+//    return objectMapper.writeValueAsString(writer.toString());
+ 
+//    exception.getMessage();
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>StringWriter writer = new StringWriter();
+try {
+   
+    Get get = Http.get(&quot;https://jobs.github.com/positions/123213&quot;);
+    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;after calling api&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+//    return get.getInputStream().hashCode();
+} catch (Exception exception) {
+//    IOUtils.copy(get.getInputStream(), writer, &quot;UTF8&quot;);
+    System.out.println(&quot;in exception&quot;);
+    ObjectMapper objectMapper = new ObjectMapper();
+//    return objectMapper.writeValueAsString(writer.toString());
+ 
+//    exception.getMessage();
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;truefit.google.homepage.searchfield.byid&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>driverFactory.getMobileDriver().findElementsByXPath(&quot;signin_email_textview&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driverFactory.getMobileDriver().findElementsByXPath(&quot;signin_email_textview&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.appium.java_client.MobileElement</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driverFactory.getMobileDriver().findElementById(&quot;signin_email_textview&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.appium.java_client.MobileElement</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driverFactory.getMobileDriver().findElementsByAccessibilityId(&quot;signin_email_textview&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.appium.java_client.MobileElement</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driverFactory.getMobileDriver().findElementsByAccessibilityId(&quot;com.dtcm.dubaichallenge:id/signin_email_textview&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.appium.java_client.MobileElement</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>List&lt;MobileElement&gt; mobileElement =  driverFactory.getMobileDriver().findElementsByAccessibilityId(&quot;signin_email_textview&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.appium.java_client.MobileElement</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>List&lt;MobileElement&gt; mobileElement =  driverFactory.getMobileDriver().findElementsByAccessibilityId(&quot;com.dtcm.dubaichallenge:id/signin_email_textview&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.appium.java_client.MobileElement</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/truefit/automation/web/elements/Elements.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/FluentWait.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/JavascriptExecutor.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/AbstractCapabilities.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/MutableCapabilities.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.14.0/selenium-firefox-driver-3.14.0.jar!/org/openqa/selenium/firefox/FirefoxOptions.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/By.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/truefit/framework/runner/AppiumTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/properties/properties.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/feature/web/TrueFit_GoogleVerification.feature" />
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="967" column="18" selection-start-line="967" selection-start-column="18" selection-end-line="967" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/truefit/stepdefs/web/GenericStepDefs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/truefit/stepdefs/mobile.java" />
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/truefit/framework/common/business/Element.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+          <folding>
+            <element signature="e#2324#2325#0" expanded="true" />
+            <element signature="e#2400#2401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/Utils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/truefit/automation/web/element/WebElements.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/truefit/automation/web/page/GenericPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/business/Element.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/helper/PageUtility.java" />
+    <entry file="file://$PROJECT_DIR$/truefit3.iml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta3/testng-7.0.0-beta3.jar!/org/testng/asserts/SoftAssert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-332">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/4.1.2/java-client-4.1.2.jar!/io/appium/java_client/android/AndroidKeyCode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/4.1.2/java-client-4.1.2.jar!/io/appium/java_client/TouchShortcuts.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/Dimension.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/factory/MobileDriverFactory.java" />
+    <entry file="file://$PROJECT_DIR$/test" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ets" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/factory/DriverFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/propmanager/PropManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/automation/mobile/page/MobileGenericPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/mobile/business/AppElementHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/feature/app/dubaifitnesschallenge/DubaiFitnessChallange_Login.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/feature/app/dubaifitnesschallenge/DubaiFitnessChallange_Register.feature" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/automation/mobile/element/AppElement.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/qapros/stepdefs/mobile/GenericStepDefs.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Locators.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/services/ResponseBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/qapros/stepdefs/api/ApiGenericStepDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/automation/web/page/ApiGenericPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/services/CallService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="23" selection-start-line="19" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/appProperties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/feature/api/FuttaimGroup_GitHub_API.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/qapros/framework/common/runner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.5 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>truefit</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean build" />
+  </component>
+</project>

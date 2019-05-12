@@ -1,0 +1,34 @@
+WDS.sampleResult.sampleStart()//;
+WDS.name ="login";
+WDS.browser.get("https://tdportalqa.dtcmdomain.com/");
+WDS.browser.findElement(org.openqa.selenium.By.id("username")).sendKeys("plaza1@sso.com");
+WDS.browser.findElement(org.openqa.selenium.By.id("password")).sendKeys("p@ssw0rd");
+WDS.browser.findElement(org.openqa.selenium.By.xpath("//button[@class='btn btn-primary' and text()='Login']")).click();
+WDS.sampleResult.sampleEnd();
+
+var ctx = org.apache.jmeter.threads.JMeterContextService.getContext();
+var vars = ctx.getVariables();
+
+var cookie =WDS.browser.manage().getCookieNamed(".AspNetCore.Antiforgery.mEZFPqlrlZ8").getValue();
+vars.put("c1",  ".AspNetCore.Antiforgery.mEZFPqlrlZ8="+ cookie +";");
+
+cookie = WDS.browser.manage().getCookieNamed(".AspNetCore.Cookies").getValue();
+vars.put("c1",vars.get("c1")+ " .AspNetCore.Cookies="+ cookie +";");
+
+cookie = WDS.browser.manage().getCookieNamed(".AspNetCore.Culture").getValue();
+vars.put("c1",vars.get("c1")+ " .AspNetCore.Culture="+ cookie +";");
+
+cookie = WDS.browser.manage().getCookieNamed(".AspNetCore.Session").getValue();
+vars.put("c1",vars.get("c1")+ " .AspNetCore.Session="+ cookie +";");
+
+cookie = WDS.browser.manage().getCookieNamed("citrix_ns_id_.dtcmdomain.com_%2F_wlf").getValue();
+vars.put("c1",vars.get("c1")+ " citrix_ns_id_.dtcmdomain.com_%2F_wlf="+ cookie +";");
+
+cookie = WDS.browser.manage().getCookieNamed("citrix_ns_id_.dtcmdomain.com_%2F_wat").getValue();
+vars.put("c1",vars.get("c1")+ " citrix_ns_id_.dtcmdomain.com_%2F_wat="+ cookie +";");
+
+cookie = WDS.browser.manage().getCookieNamed("citrix_ns_id").getValue();
+vars.put("c1",vars.get("c1")+ " citrix_ns_id="+ cookie +";");
+
+org.apache.jmeter.util.JMeterUtils.setProperty("c1",  vars.get("c1"));
+
