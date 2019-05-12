@@ -5,51 +5,57 @@ Feature: GitHub API
   Scenario Outline:Base API URL without “.json” and without any search criteria  – general jobs entries data will be retrieved in HTML format
     And request api url with get method: <url>
     And validate response body in html format
+    And verify response code is: <code>
     Examples:
-      |url|
-      |https://jobs.github.com/positions|
+      |url|code|
+      |https://jobs.github.com/positions|200|
 
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline:Base API URL with “.json” and without any search criteria  – general jobs entries data will be retrieved in Json format
     And request api url with get method: <url>
     And validate response body in json format
+    And verify response code is: <code>
     Examples:
-      |url|
-      |https://jobs.github.com/positions.json|
+      |url|code|
+      |https://jobs.github.com/positions.json|200|
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: Pagination param doesn't exist in call URl  – 50 entry will be retrieved in the response body
     And request api url with get method: <url>
     And validate response body contains 50 record
+    And verify response code is: <code>
     Examples:
-      |url|
-      |https://jobs.github.com/positions.json/|
+      |url|code|
+      |https://jobs.github.com/positions.json/|200|
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: Pagination param exist in call URl  – query param present in URL, and will direct user to unique result page
     And request api url with get method: <url>
     And validate pagination param and will direct user to unique result page: <secondUrl>
+    And verify response code is: <code>
     Examples:
-      |url|secondUrl|
-      |https://jobs.github.com/positions.json?page=1|https://jobs.github.com/positions.json?page=2|
+      |url|secondUrl|code|
+      |https://jobs.github.com/positions.json?page=1|https://jobs.github.com/positions.json?page=2|200|
 
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: description is added to API URL – description query param will make sure that description field contains the supplied keyword in all response results
     And request api url with get method: <url>
     And validate response nods description contains the description query param supplied in the url: <description>
+    And verify response code is: <code>
     Examples:
-      |url|description|
-      |https://jobs.github.com/positions.json?description=MongoDB|MongoDB|
+      |url|description|code|
+      |https://jobs.github.com/positions.json?description=MongoDB|MongoDB|200|
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: Location query param – query param “location” present in URL, and will filter the response job entries to be located in the value provided in the API URL
     And request api url with get method: <url>
     And validate response nods location contains the location query param supplied in the url: <location>
+    And verify response code is: <code>
     Examples:
-      |url|location|
-      |https://jobs.github.com/positions.json?location=germany|germany|
+      |url|location|code|
+      |https://jobs.github.com/positions.json?location=germany|germany|200|
 
 
   @TestType-Smoke @Priority-p0 @Country-uae
@@ -59,9 +65,10 @@ Feature: GitHub API
     And add query param to the api url: <long>
     And request constructed API url using get method
     And validate response nods location contains the location query param supplied in the url: <location>
+    And verify response code is: <code>
     Examples:
-      |url|lat|long|location|
-      |https://jobs.github.com/positions.json?|lat=37.3229978|&long=-122.0321823|CA|
+      |url|lat|long|location|code|
+      |https://jobs.github.com/positions.json?|lat=37.3229978|&long=-122.0321823|CA|200|
 
 
   @TestType-Smoke @Priority-p0 @Country-uae
@@ -70,9 +77,10 @@ Feature: GitHub API
     And add query param to the api url: <lat>
     And request constructed API url using get method
     And validate no location filtration took place: <location>
+    And verify response code is: <code>
     Examples:
-      |url|lat|location|
-      |https://jobs.github.com/positions.json?|lat=37.3229978|anywhere|
+      |url|lat|location|code|
+      |https://jobs.github.com/positions.json?|lat=37.3229978|anywhere|200|
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: “lat” query param and long param contain invalid values, no data will be retrieved in the response body
@@ -80,9 +88,10 @@ Feature: GitHub API
     And add query param to the api url: <lat>
     And add query param to the api url: <long>
     And validate the response records size equal to: <size>
+    And verify response code is: <code>
     Examples:
-      |url|lat|long|size|
-      |https://jobs.github.com/positions.json?page=1|&lat=2222|&long=44444|0|
+      |url|lat|long|size|code|
+      |https://jobs.github.com/positions.json?page=1|&lat=2222|&long=44444|0|200|
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: Lat and long query params – query params “lat” and “long” query params are present along with “location” query param, no data will be retrieved in the response (empty response body)
@@ -92,9 +101,10 @@ Feature: GitHub API
     And add query param to the api url: <location>
     And request constructed API url using get method
     And validate response body is empty
+    And verify response code is: <code>
     Examples:
-      |url|lat|long|location|
-      |https://jobs.github.com/positions.json?|lat=37.3229978|&long=-122.0321823|&location=germany|
+      |url|lat|long|location|code|
+      |https://jobs.github.com/positions.json?|lat=37.3229978|&long=-122.0321823|&location=germany|200|
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: search query param – the search query param will make sure the searched keyword will be listed in the description field in the response body
@@ -103,9 +113,10 @@ Feature: GitHub API
     And add query param to the api url: <page>
     And request constructed API url using get method
     And validate response nods description contains the description query param supplied in the url: <description>
+    And verify response code is: <code>
     Examples:
-      |url|search|page|description|
-      |https://jobs.github.com/positions.json?|search=cleaner|&page=1|cleaner|
+      |url|search|page|description|code|
+      |https://jobs.github.com/positions.json?|search=cleaner|&page=1|cleaner|200|
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: search query param – the search query param will make sure the search keyword will be listed in the description field in the response body
@@ -114,9 +125,10 @@ Feature: GitHub API
     And add query param to the api url: <page>
     And request constructed API url using get method
     And validate response nods description contains the description query param supplied in the url: <description>
+    And verify response code is: <code>
     Examples:
-      |url|search|page|description|
-      |https://jobs.github.com/positions.json?|search=cleaner|&page=1|cleaner|
+      |url|search|page|description|code|
+      |https://jobs.github.com/positions.json?|search=cleaner|&page=1|cleaner|200|
 
    @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: full time query param – set full time query param to true will not return job entries with part time type.
@@ -125,9 +137,10 @@ Feature: GitHub API
     And add query param to the api url: <page>
     And request constructed API url using get method
     And validate no job with type part time will be retrieved in the response body : <type>
+     And verify response code is: <code>
     Examples:
-      |url|page|fullTime|type|
-      |https://jobs.github.com/positions.json?|page=1r|&full_time=true|part time|
+      |url|page|fullTime|type|code|
+      |https://jobs.github.com/positions.json?|page=1r|&full_time=true|part time|200|
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: description query param: cleaner, one job will be returned and location is remote
@@ -136,9 +149,10 @@ Feature: GitHub API
     And request constructed API url using get method
     And validate response nods description contains the description query param supplied in the url: <description>
     And validate the response records size equal to: <size>
+    And verify response code is: <code>
     Examples:
-      |url|desc|description|size|
-      |https://jobs.github.com/positions.json?page=1|&description=cleaner|cleaner|1|
+      |url|desc|description|size|code|
+      |https://jobs.github.com/positions.json?page=1|&description=cleaner|cleaner|1|200|
 
   @TestType-Smoke @Priority-p0 @Country-uae
   Scenario Outline: description query param: cleaner, and location is Germany: empty post will be returned to user, no matching job posting for query params values
@@ -146,9 +160,10 @@ Feature: GitHub API
     And add query param to the api url: <desc>
     And add query param to the api url: <location>
     And validate the response records size equal to: <size>
+    And verify response code is: <code>
     Examples:
-      |url|desc|location|size|
-      |https://jobs.github.com/positions.json?page=1|&description=cleaner|germany|0|
+      |url|desc|location|size|code|
+      |https://jobs.github.com/positions.json?page=1|&description=cleaner|germany|0|200|
 
 
 
@@ -160,9 +175,10 @@ Feature: GitHub API
     And validate response nods description contains the description query param supplied in the url: <description>
     And validate response title contains: <title>
     And validate response id equals: <id>
+    And verify response code is: <code>
     Examples:
-      |url|size|description|title|id|
-      |https://jobs.github.com/positions/caf01612-4169-430f-b14a-bda654f241a9.json|1|<p>We are an innovation lab in Washington, DC area working with start-ups|Software Developer (Africa)|caf01612-4169-430f-b14a-bda654f241a9|
+      |url|size|description|title|id|code|
+      |https://jobs.github.com/positions/caf01612-4169-430f-b14a-bda654f241a9.json|1|<p>We are an innovation lab in Washington, DC area working with start-ups|Software Developer (Africa)|caf01612-4169-430f-b14a-bda654f241a9|200|
 
 
   @TestType-Smoke @Priority-p0 @Country-uae
